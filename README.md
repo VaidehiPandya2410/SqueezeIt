@@ -62,6 +62,6 @@ If the Player is eliminated
 In either case, Player with the maximum pieces on the board wins.
 
 Team Members:
-Apoorva Tyagi – aptyagi@ttu.edu
-Vaidehi Pandya – vaidehi.pandya@ttu.edu
-Nitisha Patange --  nitisha.patange@ttu.edu
+Apoorva Tyagi 
+Vaidehi Pandya 
+Nitisha Patange 
