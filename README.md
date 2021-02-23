@@ -5,7 +5,7 @@ Class Project
 Game Overview:
 Squeeze-it is a two-player board game with a board size of 8x8. Each play initially has eight pieces placed on the uppermost and lowermost row. The initial configuration of the game looks like this:
 
-
+![](image2.png)
 
 
 Programming Language: Python
